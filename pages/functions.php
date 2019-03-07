@@ -21,6 +21,8 @@ function connect(
 }
 
 function log_mysql($err)
+
+
 {
     if ($err) {
         echo "<h2 style='color:red;'>Error code: $err</h2><br>";
