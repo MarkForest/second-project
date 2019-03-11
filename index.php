@@ -17,6 +17,7 @@ include_once 'pages/functions.php';
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Travel Agency</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <div class="container">
